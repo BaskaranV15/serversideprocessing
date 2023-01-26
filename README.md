@@ -130,9 +130,9 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-
+![output](server.png)
 ### Home Page:
 
 
 ## Result:
-
+The program is executed succesfully
